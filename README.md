@@ -1,4 +1,4 @@
-🍋 Little Lemon Restaurant Website
+<h1>🍋 Little Lemon Restaurant Website </h1>
 Welcome to the Little Lemon Restaurant web application — a modern, responsive restaurant website built with Django, styled using HTML/CSS, and powered by a MySQL database. This project allows customers to explore the menu, make reservations, and contact the restaurant.
 
 🌐 Features
