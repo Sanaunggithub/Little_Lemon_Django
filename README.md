@@ -19,7 +19,7 @@ Backend: Django (Python)
 
 Frontend: HTML5, CSS3
 
-Database: MySQL
+Database: SQlite
 
 Admin Panel: Django Admin
 
